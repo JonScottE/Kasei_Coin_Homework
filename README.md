@@ -1,7 +1,8 @@
 # Kasei_Coin_Homework
 </br>
 Code should be good, on to step one:</br></br>
-Injected web, accound proper to ganache, name symbol and wallet appropriate before hitting transact:</br>
+Injected web, accound proper to ganache, name symbol and wallet appropriate before hitting transact:
+</br>
 ![image](https://user-images.githubusercontent.com/91569353/161408417-a285e8d4-28da-43a3-8cf5-a3dbef155ed5.png)
 </br></br></br>
 Hit transact, got the confirm in my metamask, hitting confirm:</br>
@@ -13,7 +14,7 @@ got a deployed contract:</br>
 changed the account and changed the contracts</br>
 ![image](https://user-images.githubusercontent.com/91569353/161408634-1d7db4ba-690f-4a98-a23e-0504ea18ddcb.png)
 </br></br>
-Changed the beneficiart address and transacted:
+Changed the beneficiary address and transacted:
 </br>
 ![image](https://user-images.githubusercontent.com/91569353/161408651-1f49c9ca-66af-4a44-834b-9e2f3a16c6a2.png)
 </br></br>
