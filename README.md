@@ -1,4 +1,4 @@
-# Kasei_Coin_Homework
+# Kasei_Coin_Homework (not sure why all images aren't coming through, but some are???)
 </br>
 Code should be good, on to step one:</br></br>
 Injected web, accound proper to ganache, name symbol and wallet appropriate before hitting transact:
